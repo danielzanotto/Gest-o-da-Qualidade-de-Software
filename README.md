@@ -1,1 +1,1 @@
-# Gest-o-da-Qualidade-de-Software
+# Gestão-da-Qualidade-de-Software
